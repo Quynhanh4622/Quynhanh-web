@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36004990-b80c-4fe3-973a-c2beb8e31f1b" name="Default Changelist" comment="nopbai">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="36004990-b80c-4fe3-973a-c2beb8e31f1b" name="Default Changelist" comment="demo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +58,7 @@
       <workItem from="1602163081121" duration="672000" />
       <workItem from="1602205268468" duration="436000" />
       <workItem from="1602206992691" duration="26000" />
+      <workItem from="1602292871204" duration="2010000" />
     </task>
     <task id="LOCAL-00001" summary="nopbai">
       <created>1602163144388</created>
@@ -68,7 +67,42 @@
       <option name="project" value="LOCAL" />
       <updated>1602163144388</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nopbai">
+      <created>1602293846120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602293846120</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nopbai">
+      <created>1602294117718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294117718</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nopbai">
+      <created>1602294155076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294155076</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nopbai">
+      <created>1602294261042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294261042</updated>
+    </task>
+    <task id="LOCAL-00006" summary="demo">
+      <created>1602294577491</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602294577491</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,16 +122,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nopbai" />
-    <option name="LAST_COMMIT_MESSAGE" value="nopbai" />
+    <MESSAGE value="demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602158470431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602158470431" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602294272291">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602294581737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602294272291" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602294581737" />
   </component>
 </project>
