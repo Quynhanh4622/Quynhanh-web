@@ -10,7 +10,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36004990-b80c-4fe3-973a-c2beb8e31f1b" name="Default Changelist" comment="demo" />
+    <list default="true" id="36004990-b80c-4fe3-973a-c2beb8e31f1b" name="Default Changelist" comment="hello">
+      <change afterPath="$PROJECT_DIR$/CSS/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baivenha.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abcd.html" beforeDir="false" afterPath="$PROJECT_DIR$/baimoi.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +50,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\acer\WebstormProjects\asm1\imgs" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\WebstormProjects\asm1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,6 +70,14 @@
       <workItem from="1602205268468" duration="436000" />
       <workItem from="1602206992691" duration="26000" />
       <workItem from="1602292871204" duration="2010000" />
+      <workItem from="1602295253822" duration="4599000" />
+      <workItem from="1602299926406" duration="5669000" />
+      <workItem from="1602470990049" duration="1082000" />
+      <workItem from="1602477677710" duration="42000" />
+      <workItem from="1602484677517" duration="2357000" />
+      <workItem from="1602491950641" duration="310000" />
+      <workItem from="1602493219582" duration="157000" />
+      <workItem from="1602552486123" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="nopbai">
       <created>1602163144388</created>
@@ -102,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602294577491</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hello">
+      <created>1602295313616</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602295313616</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +149,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nopbai" />
     <MESSAGE value="demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo" />
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602158470431">

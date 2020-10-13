@@ -1,0 +1,23 @@
+body{
+    background-color: #f2f2f2;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color: white; /*0-255 rgb(255,255,255)--00-FF#fffff*/
+    font-size: 20px;
+    line-heigh: 20px;
+}
+p{
+    font-size:20px;
+    line-height: 1.25;
+    font-family: "sansSerif";
+    font-weight: lighter;
+    text-align: left;
+
+}
+a{
+    text-decoration: white;
+    color: red;
+}
