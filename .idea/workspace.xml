@@ -10,24 +10,44 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36004990-b80c-4fe3-973a-c2beb8e31f1b" name="Default Changelist" comment="lab4">
+    <list default="true" id="36004990-b80c-4fe3-973a-c2beb8e31f1b" name="Default Changelist" comment="ss4">
       <change afterPath="$PROJECT_DIR$/CSS/boxmodel.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/boxmodel2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/color.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/css3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lab7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/anhshop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b001.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/fb.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/hinh.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/hinhnen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/may.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/meo.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/meo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/sesion4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/tải xuống.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/quynh.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sesion3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesion4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesion6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,12 +80,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\acer\WebstormProjects\asm1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\acer\WebstormProjects\asm1\imgs" />
+      <recent name="C:\Users\acer\WebstormProjects\asm1\kbs\bootstrap.3.4.1" />
       <recent name="C:\Users\acer\WebstormProjects\asm1\CSS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\WebstormProjects\asm1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -105,7 +126,13 @@
       <workItem from="1603077651253" duration="2942000" />
       <workItem from="1603089172474" duration="1582000" />
       <workItem from="1603093148027" duration="96000" />
-      <workItem from="1603113696102" duration="677000" />
+      <workItem from="1603113696102" duration="1784000" />
+      <workItem from="1603158019542" duration="6642000" />
+      <workItem from="1603262814623" duration="20000" />
+      <workItem from="1603330394977" duration="11953000" />
+      <workItem from="1603378445776" duration="10000" />
+      <workItem from="1603434945050" duration="68000" />
+      <workItem from="1603460875167" duration="4161000" />
     </task>
     <task id="LOCAL-00001" summary="nopbai">
       <created>1602163144388</created>
@@ -177,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602863161705</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ss4">
+      <created>1603114472656</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603114472656</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +236,8 @@
     <MESSAGE value="lab2" />
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
+    <MESSAGE value="ss4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ss4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="441" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602553506793">
@@ -213,9 +248,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602158470431" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602863168194">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603114478833">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602863168194" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603114478833" />
   </component>
 </project>

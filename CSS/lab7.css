@@ -1,0 +1,49 @@
+.cart-icon{
+    font-size: 150px;
+    color: green;
+}
+.form-group{
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    width: 470px;
+}
+input[name="first name"]{
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    width: 235px;
+    float: left;
+    margin-right: 15px;
+}
+input[name="last name"]{
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    width: 200px;
+}
+.section{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding-top: 20px;
+    background-image: url("https://i.pinimg.com/736x/17/5d/10/175d1006d4b25c9c3ec09f241529eb1c.jpg");
+}
+.month{
+    width: 135px;
+    float: left;
+    margin-right: 10px;
+}
+.day{
+    width: 135px;
+    float: left;
+    margin-right: 10px;
+}
+.year {
+    width: 160px;
+    float: left;
+}
+.btn-success{
+    margin-left: 180px;
+    margin-top: 10px;
+}
