@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo js</title>
+</head>
+<body>
+     <script type="text/javascript">
+        //day la noi viet js
+        var x;
+        x = 10;//x la mot so
+        x = "hello";//x la mot chuoi
+        var y = "world";
+        var z = x+y;//helloworld
+        x = 20;
+        z =x+y;//20world
+        x = 10+20;//30
+        z = "xinchao"+"cac ban"+100;
+        y = 10+"haha"//10 haha->chuoi
+        if(x>20){
+            console.log("x>20");
+        }else {
+            console.log("x<20");
+        }
+        for (var i=0;i<10;i++){
+            console.log(i*i);
+        }
+        x=30;
+        while (x<20){
+            console.log(x);
+            x--;
+        }
+        do{
+            console.log(x*x);
+            x--;
+        }while (x>20);
+        var arr = [];
+       // arr[0]=15;
+        //arr[1]="hello"
+        for (var i=0;i<10;i++){
+            //arr[i]=i*i;
+            arr.push(i*i);//tu dong tang chỉ mục i
+        }
+        //arr[10] = 17;
+        //arr.push(17);
+        console.log(arr);
+        var s = 56;
+        if (arr.includes(s)){
+            console.log(s+ "nam trong mang");
+        }else{
+            console.log(s+ "khong co trong mang");
+        }
+        var m = Max(arr);
+        console.log("Max: "+m);
+        function Max(ary){
+            var max = ary[0];
+            for (var i=0;i<ary.length;i++){
+                if(max < ary[i]);
+                max = ary[i];
+            }
+            return max;
+        }
+
+        function TinhTong(a,b){
+            var c = a+b;
+            return c;
+        }
+        Hello();
+        function  Hello(){
+            console.log("xin chao....");
+        }
+        //alert("day la mot canh bao....");
+        //var kq = confirm("ban co chac muon nop bai thi?");//tra ve true or fail
+        //console.log(kq);
+        //if (kq){
+            //nguoi dung chon ok
+        //}else{
+            //nguoi dung chon cancel
+        //var st = prompt("ban bao nhieu tuoi?");//tra ve 1 chuoi
+        //console.log(st);//null neu nguoi dung an huy
+        //bien doi st tu chuoi thanh so
+        //st = parseInt(st);//chuyen"18"->18
+        //"18"->18
+        //"1a8"->1
+        //"a18"->NaN not a number
+
+        //isNaN(st) kiem tra xem st co phai NaN hay khong
+       // if (!isNaN(st)){
+         //   console.log("ban da "+st+"tuoi");
+        }
+        //yeu cau nguoi dung phai nhap vao 1 so tu 0->99
+        do{
+            var n = prompt("nhap con so may man: ");
+            n = parseInt(n);
+        }while (n<0||n>99||isNaN(n));
+        var luckyNumber = parseInt(Math.random()*100);
+        if (luckyNumber== n){
+            alert("chuc mung ban da trung thuong 2 ty");
+        }
+        //5 so ngau nhien 0-99 khac nhau
+        var lk=[];
+        for (var i=0;i<5;i++){
+            var x;
+            do{
+                x = parseInt(Math.random()*100);
+            }while (lk.includes(x)|| x>99||x<0);
+            lk.push(x);
+        }
+        //ra day se co 5 so ngau nhien khac nhau
+
+
+     </script>
+</body>
+</html>

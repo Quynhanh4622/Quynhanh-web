@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.grid-title{
+    background-color: #cccccc;
+    color: black;
+    font-size:30px;
+    padding: 50px 20px;
+    text-align: center;
+}
+.item{
+    float: left;
+    width: 100%;
+    background-color: white;
+    margin: 15px 0;
+}
+.item .product-name{
+    font-size: 25px;
+    font-weight: 400;
+}
+.item .price{
+    font-size: 16px;
+    color: mediumblue;
+    padding-top: 20px;
+}
+/*.item .add-to-cart{
+    float: left;
+    width: 100%;
+    background-color: #cccccc;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    padding: 10px 0;
+    transition: background-color 300ms;
+}
+/*.item .add-to-cart:hover{
+    background-color: #baadad;
+}
+/*.item .star-box{
+    float: left;
+    margin-left: calc((100% - 160px)/2);
+    width: 160px;
+    height: 32px;
+    margin-left: calc((100% - 80px)/2);
+    width: 80px;
+    height: 16px;
+    background-image: url("https://github.com/hoatq-fptaptech/T2009M_WEB/blob/master/imgs/star-off.png?raw=true");
+    background-repeat: repeat-x;
+    background-size: 16px 16px;
+}
+/*.item .star-box .star-rate{
+    float: left;
+    height: 32px;
+    height: 16px;
+    background-image: url("https://github.com/hoatq-fptaptech/T2009M_WEB/blob/master/imgs/star-on.png?raw=true");
+    background-repeat: repeat-x;
+    background-size: 16px 16px;
+}

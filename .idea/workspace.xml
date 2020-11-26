@@ -17,21 +17,83 @@
       <change afterPath="$PROJECT_DIR$/CSS/css3.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/demo.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/new.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/ss10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/ss13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/thi.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/anhshop.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/b001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/cloud.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/favorite+favourite+premium+rate+rating+star+icon-1320166547676710135.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/fb.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/hinh.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/hinhnen.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/meo.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/meo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sao.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star-icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/tải xuống.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/v.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gird.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ss13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/brands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/brands.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/conflict-detection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/conflict-detection.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/demofonawesome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/fontawesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/fontawesome.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/regular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/regular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/solid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/solid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/v4-shims.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome5.15.1/js/v4-shims.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/quynh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesion10.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sesion3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sesion6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesion8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesion9-js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/may.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/may.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbs/bootstrap.3.4.1/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/js/bootstrap.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab7.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +104,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -66,10 +129,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\acer\WebstormProjects\asm1\imgs" />
+      <recent name="C:\Users\acer\WebstormProjects\asm1\Lib" />
+      <recent name="C:\Users\acer\WebstormProjects\asm1\libs" />
+      <recent name="C:\Users\acer\WebstormProjects\asm1\fontawesome5.15.1" />
       <recent name="C:\Users\acer\WebstormProjects\asm1\kbs\bootstrap.3.4.1" />
-      <recent name="C:\Users\acer\WebstormProjects\asm1\CSS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\WebstormProjects\asm1\js" />
       <recent name="C:\Users\acer\WebstormProjects\asm1" />
     </key>
   </component>
@@ -117,7 +183,22 @@
       <workItem from="1603378445776" duration="10000" />
       <workItem from="1603434945050" duration="68000" />
       <workItem from="1603460875167" duration="4860000" />
-      <workItem from="1603466888577" duration="326000" />
+      <workItem from="1603466888577" duration="868000" />
+      <workItem from="1603502714923" duration="4704000" />
+      <workItem from="1603511049057" duration="25000" />
+      <workItem from="1603635281864" duration="17000" />
+      <workItem from="1603763215522" duration="8828000" />
+      <workItem from="1603808410766" duration="420000" />
+      <workItem from="1603936888651" duration="3515000" />
+      <workItem from="1604367154796" duration="11685000" />
+      <workItem from="1604453449353" duration="12000" />
+      <workItem from="1604539662887" duration="9351000" />
+      <workItem from="1604625382534" duration="15000" />
+      <workItem from="1604972814401" duration="499000" />
+      <workItem from="1605056973332" duration="415000" />
+      <workItem from="1605144512349" duration="339000" />
+      <workItem from="1606095853716" duration="63000" />
+      <workItem from="1606359637376" duration="6832000" />
     </task>
     <task id="LOCAL-00001" summary="nopbai">
       <created>1602163144388</created>
@@ -203,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603466175118</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lab7">
+      <created>1603467245439</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603467245439</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,9 +329,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602158470431" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603466183297">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603467250435">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603466183297" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603467250435" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603505168228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603505168228" />
   </component>
 </project>
